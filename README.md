@@ -3,10 +3,10 @@ This is Website recon script that utilizes Assetfinder, Amass, Certspotter, Subl
 
 # Dependencies
 
-Assetfinder - https://github.com/tomnomnom/assetfinder
-Sublist3r - https://github.com/aboul3la/Sublist3r
-OWASP Amass - https://github.com/OWASP/Amass
-Eyewitness - https://github.com/FortyNorthSecurity/EyeWitness
-HTTProbe - https://github.com/tomnomnom/httprobe
-WayBackURLs - https://github.com/tomnomnom/waybackurls
-WhatWeb - https://github.com/urbanadventurer/WhatWeb
+Assetfinder - https://github.com/tomnomnom/assetfinder <br>
+Sublist3r - https://github.com/aboul3la/Sublist3r <br>
+OWASP Amass - https://github.com/OWASP/Amass <br>
+Eyewitness - https://github.com/FortyNorthSecurity/EyeWitness <br>
+HTTProbe - https://github.com/tomnomnom/httprobe <br>
+WayBackURLs - https://github.com/tomnomnom/waybackurls <br>
+WhatWeb - https://github.com/urbanadventurer/WhatWeb <br>
