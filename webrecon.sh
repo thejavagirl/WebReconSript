@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # A Script that utilizes Assetfinder, Amass, Sublist3r, Eyewitness, Httprobe, Waybackurls, and Whatweb to enumerate a website and subdomains.
+# Thanks to Gr1mmie for his initial work on this https://github.com/Gr1mmie/sumrecon
 
     url=$1
  
